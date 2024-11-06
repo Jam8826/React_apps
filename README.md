@@ -1,3 +1,6 @@
+This repository contain different Reactjs framework and JavaScript applications  
+
+
 Healthy Life with Diet App
 Project Name: Healthy Life with Diet App
 Description: This app helps users track their diet and manage healthy eating habits by providing nutritional information, meal planning, and tips on balanced diets. Built with React.js, the app emphasizes user-friendly design and an easy-to-navigate interface to support health and wellness goals.
